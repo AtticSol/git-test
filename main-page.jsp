@@ -7,9 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-Main <br /><br /><br />
+<h1>Main</h1>
+<br /><br /><br />
 
-Name: ${registrationData.name} <br />
+<h2>Name: ${registrationData.name} </h2> <br />
+<h3></h3>
 
 
 </body>
